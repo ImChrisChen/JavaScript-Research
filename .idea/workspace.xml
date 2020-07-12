@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f63b166-ee5f-401d-9dc1-bfea760a2aa4" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="vq5wkabz" />
+  </component>
+  <component name="ProjectId" id="1ahyUkjUY4qUnc1hYfbz6WCOGe8" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.karma.karma_node_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v6.5.0/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.配色方案字体" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/手写路由模块/hash模式" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/观察者模式" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.eventBus.js">
+    <configuration name="eventBus.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/观察者模式实现自定义事件触发/eventBus.js" working-dir="$PROJECT_DIR$/观察者模式实现自定义事件触发">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/观察者模式/index.js" working-dir="$PROJECT_DIR$/观察者模式">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.eventBus.js" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f63b166-ee5f-401d-9dc1-bfea760a2aa4" name="默认更改列表" comment="" />
+      <created>1587202137745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587202137745</updated>
+      <workItem from="1587202138844" duration="2827000" />
+      <workItem from="1587213207820" duration="4864000" />
+      <workItem from="1589008415583" duration="362000" />
+      <workItem from="1589009266812" duration="139000" />
+      <workItem from="1589009449035" duration="374000" />
+      <workItem from="1589381292357" duration="5265000" />
+      <workItem from="1591197113474" duration="2107000" />
+      <workItem from="1593848805112" duration="1661000" />
+      <workItem from="1593861555617" duration="5336000" />
+      <workItem from="1593945854444" duration="6583000" />
+      <workItem from="1594309834654" duration="96000" />
+      <workItem from="1594314009734" duration="2208000" />
+      <workItem from="1594434939184" duration="5799000" />
+      <workItem from="1594453514961" duration="6854000" />
+      <workItem from="1594539855831" duration="64000" />
+      <workItem from="1594556957595" duration="3336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="770" y="369" key="#Plugins" timestamp="1589381483589">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="770" y="369" key="#Plugins/0.23.2560.1346@0.23.2560.1346" timestamp="1589381483589" />
+    <state x="770" y="387" width="1157" height="719" key="#意图" timestamp="1589381483977">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="770" y="387" width="1157" height="719" key="#意图/0.23.2560.1346@0.23.2560.1346" timestamp="1589381483977" />
+    <state width="1485" height="326" key="GridCell.Tab.0.bottom" timestamp="1594562148451">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state width="1485" height="326" key="GridCell.Tab.0.bottom/0.23.2560.1346@0.23.2560.1346" timestamp="1594562148451" />
+    <state width="1485" height="326" key="GridCell.Tab.0.center" timestamp="1594562148451">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state width="1485" height="326" key="GridCell.Tab.0.center/0.23.2560.1346@0.23.2560.1346" timestamp="1594562148451" />
+    <state width="1485" height="326" key="GridCell.Tab.0.left" timestamp="1594562148450">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state width="1485" height="326" key="GridCell.Tab.0.left/0.23.2560.1346@0.23.2560.1346" timestamp="1594562148450" />
+    <state width="1485" height="326" key="GridCell.Tab.0.right" timestamp="1594562148451">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state width="1485" height="326" key="GridCell.Tab.0.right/0.23.2560.1346@0.23.2560.1346" timestamp="1594562148451" />
+    <state x="747" y="358" key="SettingsEditor" timestamp="1589384544993">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="747" y="358" key="SettingsEditor/0.23.2560.1346@0.23.2560.1346" timestamp="1589384544993" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1593945938182">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.2560.1346@0.23.2560.1346" timestamp="1593945938182" />
+    <state x="1133" y="292" width="670" height="676" key="search.everywhere.popup" timestamp="1594456642081">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="1133" y="292" width="670" height="676" key="search.everywhere.popup/0.23.2560.1346@0.23.2560.1346" timestamp="1594456642081" />
+  </component>
+</project>

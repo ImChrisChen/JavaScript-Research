@@ -1,0 +1,48 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+<script>
+
+    let SingleMode = function () {
+        let education = 'colleges';
+        let age = '22';
+
+        return {
+            getEdu() {
+                return education;
+            }
+        }
+    }
+
+    let edu = new SingleMode().getEdu();
+
+    let Single = (function () {
+        return {
+            a: 10
+        }
+    })()
+
+    function Demo() {
+        console.log(this);
+        return {
+            a: 10
+        }
+    }
+
+    console.log(new Demo());
+
+    let arr = [1,2,3];
+    for (let i = 0; i < arr.length; i++) {
+        console.log(arr[i]);
+    }
+
+</script>
