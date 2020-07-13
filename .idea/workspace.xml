@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f63b166-ee5f-401d-9dc1-bfea760a2aa4" name="默认更改列表" comment="默认更改列表">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/单例模式/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/单例模式/index2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/装饰器模式/Circle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/装饰器模式/log/log.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/观察者模式/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/观察者模式-发布|阅模式/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/观察者模式/observer.js" beforeDir="false" afterPath="$PROJECT_DIR$/观察者模式-发布|阅模式/observer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/观察者模式/观察者模式es5.html" beforeDir="false" afterPath="$PROJECT_DIR$/观察者模式-发布|阅模式/观察者模式es5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/观察者模式实现自定义事件触发/eventBus.js" beforeDir="false" afterPath="$PROJECT_DIR$/观察者模式实现自定义事件触发/eventBus.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +136,7 @@
       <workItem from="1594572649519" duration="1509000" />
       <workItem from="1594642096462" duration="5922000" />
       <workItem from="1594649422381" duration="40000" />
-      <workItem from="1594649475460" duration="6063000" />
+      <workItem from="1594649475460" duration="6275000" />
     </task>
     <servers />
   </component>
@@ -173,22 +160,22 @@
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
     <state x="908" y="171" key="CommitChangelistDialog2/0.23.2560.1346@0.23.2560.1346" timestamp="1594652599666" />
-    <state width="1483" height="327" key="GridCell.Tab.0.bottom" timestamp="1594656493474">
+    <state width="1483" height="327" key="GridCell.Tab.0.bottom" timestamp="1594656545298">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
-    <state width="1483" height="327" key="GridCell.Tab.0.bottom/0.23.2560.1346@0.23.2560.1346" timestamp="1594656493474" />
-    <state width="1483" height="327" key="GridCell.Tab.0.center" timestamp="1594656493474">
+    <state width="1483" height="327" key="GridCell.Tab.0.bottom/0.23.2560.1346@0.23.2560.1346" timestamp="1594656545298" />
+    <state width="1483" height="327" key="GridCell.Tab.0.center" timestamp="1594656545298">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
-    <state width="1483" height="327" key="GridCell.Tab.0.center/0.23.2560.1346@0.23.2560.1346" timestamp="1594656493474" />
-    <state width="1483" height="327" key="GridCell.Tab.0.left" timestamp="1594656493474">
+    <state width="1483" height="327" key="GridCell.Tab.0.center/0.23.2560.1346@0.23.2560.1346" timestamp="1594656545298" />
+    <state width="1483" height="327" key="GridCell.Tab.0.left" timestamp="1594656545297">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
-    <state width="1483" height="327" key="GridCell.Tab.0.left/0.23.2560.1346@0.23.2560.1346" timestamp="1594656493474" />
-    <state width="1483" height="327" key="GridCell.Tab.0.right" timestamp="1594656493474">
+    <state width="1483" height="327" key="GridCell.Tab.0.left/0.23.2560.1346@0.23.2560.1346" timestamp="1594656545297" />
+    <state width="1483" height="327" key="GridCell.Tab.0.right" timestamp="1594656545298">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
-    <state width="1483" height="327" key="GridCell.Tab.0.right/0.23.2560.1346@0.23.2560.1346" timestamp="1594656493474" />
+    <state width="1483" height="327" key="GridCell.Tab.0.right/0.23.2560.1346@0.23.2560.1346" timestamp="1594656545298" />
     <state width="1483" height="403" key="GridCell.Tab.1.bottom" timestamp="1594656002813">
       <screen x="0" y="23" width="2560" height="1346" />
     </state>
