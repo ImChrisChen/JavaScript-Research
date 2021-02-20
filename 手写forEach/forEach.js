@@ -1,0 +1,1 @@
+/** * Created by WebStorm. * User: chrischen * Date: 2020/7/15 * Time: 9:33 下午 */Array.prototype._forEach = function (callback) {    for (let i = 0; i < this.length; i++) {        let item = this[i];        callback(item, i, this);    }}let arr = [{ name: '123', }, { name: '345' }];arr._forEach((item, index, self) => {    console.log(item, index, self);});

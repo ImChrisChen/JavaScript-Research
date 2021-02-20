@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+
+<script type="module">
+    // import { createRandomArray } from '../../utils';
+
+    let arr = [[1, 2, 2], [3, 4, 5, 5], [6, 7, 8, 9, [11, 12, [12, 13, [14]]]], 10];
+
+    function flat(arr) {
+
+        let res = [];
+
+        function loop(arr) {
+            for (const item of arr) {
+                if (Array.isArray(item)) {
+                    loop(item);
+                } else {
+                    res.push(item);
+                }
+            }
+        }
+
+        loop(arr);
+
+        return res;
+    }
+
+    function flat2(arr) {
+        while (arr.some(Array.isArray)) {
+            arr = [].concat(...arr);
+        }
+        return arr;
+    }
+
+    function notRepeat(arr) {
+        let newArr = [];
+        for (const item of arr) {
+            if (!newArr.includes(item)) {
+                newArr.push(item);
+            }
+        }
+        return newArr;
+    }
+
+    function quickSort(arr) {
+
+        if (arr.length === 0) {
+            return arr;
+        }
+
+        let pviotIndex = window.Math.floor(arr.length / 2);
+        let [pviot] = arr.splice(pviotIndex, 1);
+        let left = [], right = [];
+
+        for (const item of arr) {
+            if (item > pviot) {
+                right.push(item);
+            } else {
+                left.push(item);
+            }
+        }
+
+        return [...quickSort(left), pviot, ...quickSort(right)];
+    }
+
+    function bubbleSort(arr) {
+        // for (let k = 0; k < arr.length; k++) {
+        //     for (let i = 0; i < arr.length - k; i++) {
+        //         let item = arr[i];
+        //         let nextItem = arr[i + 1];
+        //
+        //         if (item > nextItem) {
+        //             arr[i] = nextItem;
+        //             arr[i + 1] = item;
+        //         }
+        //     }
+        // }
+
+        for (let i = 0; i < arr.length; i++) {
+            for (let j = 0; j < arr.length - i; j++) {
+                let item = arr[j];
+                let nextItem = arr[j + 1];
+                if (item > nextItem) {
+                    arr[j] = nextItem;
+                    arr[j + 1] = item;
+                }
+            }
+        }
+        return arr;
+    }
+
+    // let res = flat(arr);
+    let res = flat2(arr);
+    res = notRepeat(res);
+    // res = quickSort(res);
+    res = bubbleSort(res);
+    console.log(res);
+</script>

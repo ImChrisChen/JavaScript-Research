@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+
+<script type="module">
+    /**
+     *  冒泡排序思路:
+     *  1. 双重遍历
+     *  2. 遍历数组，获取到 当前和上一个数值进行比较，如果当前数值大于下一个数值则交换位置
+     */
+
+    import { createRandomArray } from '../../utils';
+
+    let array = createRandomArray(100);
+
+    // 快速排序
+    function bubbleSort(arr) {
+        for (let k = 0; k < arr.length; k++) {
+            for (let i = 0; i < arr.length - k; i++) {
+                let item = arr[i];
+                let nextItem = arr[i + 1];
+
+                if (item > nextItem) {
+                    arr[i] = nextItem;
+                    arr[i + 1] = item;
+                }
+            }
+        }
+        return arr;
+    }
+
+    let res = bubbleSort(array);
+    console.log(res);
+
+</script>

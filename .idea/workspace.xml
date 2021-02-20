@@ -1,9 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f63b166-ee5f-401d-9dc1-bfea760a2aa4" name="默认更改列表" comment="默认更改列表">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="3f63b166-ee5f-401d-9dc1-bfea760a2aa4" name="默认更改列表" comment="jjjj">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate-yield/generate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest/sum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest/sum.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/es6-class.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代理模式/明星经纪人例子.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单例模式/恶汉模式.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原生JS求DOM树的最大深度/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原生JS求DOM树的最大深度/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/工厂模式/jQuery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手写forEach/forEach.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/冒泡排序/bubbleSort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/快速排序/quickSort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/扁平化-去重复-排序/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/递归/递归.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/递归/递归求阶乘.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/迭代器模式/class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/迭代器模式/es6-iterator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/递归算法/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavascriptDesignMode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavascriptDesignMode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/data/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/发布-订阅模式/发布-订阅模式.html" beforeDir="false" afterPath="$PROJECT_DIR$/发布-订阅模式/发布-订阅模式.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,16 +58,30 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="EditorConfigPreviewManager">
+    <editorConfig file="$PROJECT_DIR$/../../.editorconfig" previewFile="$PROJECT_DIR$/算法/快速排序/quickSort.html" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
+        <option value="TypeScript File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/ImChrisChen/JavaScript-Research.git" />
+      </set>
+    </option>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="vq5wkabz" />
@@ -43,38 +102,53 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="true" />
     <property name="javascript.karma.karma_node_package_dir" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/代理模式" />
     <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
     <property name="nodejs.jest.jest_package" value="" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v6.5.0/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.配色方案字体" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.控制台字体" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/代理模式" />
       <recent name="$PROJECT_DIR$/static/images" />
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/手写路由模块/hash模式" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/算法/递归" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/观察者模式" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.class.js">
+  <component name="RunManager" selected="npm.test">
+    <configuration name="sum" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/jest/sum.test.js" />
+      <test-names>
+        <test-name value="sum" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="递归求阶乘.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/递归/递归求阶乘.js" working-dir="$PROJECT_DIR$/算法/递归">
+      <method v="2" />
+    </configuration>
     <configuration name="class.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/单例模式/class.js" working-dir="$PROJECT_DIR$/单例模式">
       <method v="2" />
     </configuration>
-    <configuration name="eventBus.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/观察者模式实现自定义事件触发/eventBus.js" working-dir="$PROJECT_DIR$/观察者模式实现自定义事件触发">
-      <method v="2" />
-    </configuration>
-    <configuration name="index2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/单例模式/index2.js" working-dir="$PROJECT_DIR$/单例模式">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/单例模式/index.js" working-dir="$PROJECT_DIR$/单例模式">
+    <configuration name="forEach.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/手写forEach/forEach.js" working-dir="$PROJECT_DIR$/手写forEach">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.npm">
@@ -85,11 +159,11 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="start-log" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/装饰器模式/package.json" />
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
-        <script value="start-log" />
+        <script value="test" />
       </scripts>
       <node-interpreter value="project" />
       <package-manager value="npm" />
@@ -98,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.test" />
+        <item itemvalue="Jest.sum" />
+        <item itemvalue="Node.js.递归求阶乘.js" />
+        <item itemvalue="Node.js.forEach.js" />
         <item itemvalue="Node.js.class.js" />
-        <item itemvalue="npm.start-log" />
-        <item itemvalue="Node.js.index2.js" />
-        <item itemvalue="Node.js.index.js" />
-        <item itemvalue="Node.js.eventBus.js" />
       </list>
     </recent_temporary>
   </component>
@@ -137,108 +211,75 @@
       <workItem from="1594642096462" duration="5922000" />
       <workItem from="1594649422381" duration="40000" />
       <workItem from="1594649475460" duration="6275000" />
+      <workItem from="1594741646506" duration="603000" />
+      <workItem from="1594816986855" duration="2000" />
+      <workItem from="1594817904078" duration="7429000" />
+      <workItem from="1595422877450" duration="652000" />
+      <workItem from="1595428692541" duration="2631000" />
+      <workItem from="1595436071846" duration="167000" />
+      <workItem from="1595742479442" duration="3272000" />
+      <workItem from="1595759251778" duration="963000" />
+      <workItem from="1595768360492" duration="7200000" />
+      <workItem from="1595866448726" duration="82000" />
+      <workItem from="1596043495213" duration="99000" />
+      <workItem from="1596043596478" duration="728000" />
+      <workItem from="1596460538233" duration="81000" />
+      <workItem from="1596460671552" duration="2742000" />
+      <workItem from="1596469215730" duration="1276000" />
+      <workItem from="1596890467686" duration="5229000" />
+      <workItem from="1596966548970" duration="567000" />
+      <workItem from="1597360413817" duration="2930000" />
+      <workItem from="1597410110702" duration="430000" />
+      <workItem from="1600186814511" duration="2717000" />
+      <workItem from="1613640726324" duration="253000" />
+      <workItem from="1613640986093" duration="6607000" />
+      <workItem from="1613748189885" duration="245000" />
+      <workItem from="1613749235062" duration="6000" />
+      <workItem from="1613749247737" duration="1000" />
+      <workItem from="1613749295401" duration="901000" />
+      <workItem from="1613829050816" duration="8441000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="770" y="369" key="#Plugins" timestamp="1589381483589">
-      <screen x="0" y="23" width="2560" height="1346" />
+    <state x="1376" y="140" key="#sum" timestamp="1613749430743">
+      <screen x="0" y="23" width="3008" height="1602" />
     </state>
-    <state x="770" y="369" key="#Plugins/0.23.2560.1346@0.23.2560.1346" timestamp="1589381483589" />
-    <state x="1213" y="398" key="#com.intellij.ide.util.MemberChooser" timestamp="1594649617633">
-      <screen x="0" y="23" width="2560" height="1346" />
+    <state x="1376" y="140" key="#sum/0.23.3008.1602@0.23.3008.1602" timestamp="1613749430743" />
+    <state width="1748" height="301" key="GridCell.Tab.0.bottom" timestamp="1613750465180">
+      <screen x="0" y="23" width="3008" height="1602" />
     </state>
-    <state x="1213" y="398" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1346@0.23.2560.1346" timestamp="1594649617633" />
-    <state x="770" y="387" width="1157" height="719" key="#意图" timestamp="1589381483977">
-      <screen x="0" y="23" width="2560" height="1346" />
+    <state width="1748" height="301" key="GridCell.Tab.0.bottom/0.23.3008.1602@0.23.3008.1602" timestamp="1613750465180" />
+    <state width="1748" height="301" key="GridCell.Tab.0.center" timestamp="1613750465180">
+      <screen x="0" y="23" width="3008" height="1602" />
     </state>
-    <state x="770" y="387" width="1157" height="719" key="#意图/0.23.2560.1346@0.23.2560.1346" timestamp="1589381483977" />
-    <state x="908" y="171" key="CommitChangelistDialog2" timestamp="1594652599666">
-      <screen x="0" y="23" width="2560" height="1346" />
+    <state width="1748" height="301" key="GridCell.Tab.0.center/0.23.3008.1602@0.23.3008.1602" timestamp="1613750465180" />
+    <state width="1748" height="301" key="GridCell.Tab.0.left" timestamp="1613750465180">
+      <screen x="0" y="23" width="3008" height="1602" />
     </state>
-    <state x="908" y="171" key="CommitChangelistDialog2/0.23.2560.1346@0.23.2560.1346" timestamp="1594652599666" />
-    <state width="1483" height="327" key="GridCell.Tab.0.bottom" timestamp="1594656545298">
-      <screen x="0" y="23" width="2560" height="1346" />
+    <state width="1748" height="301" key="GridCell.Tab.0.left/0.23.3008.1602@0.23.3008.1602" timestamp="1613750465180" />
+    <state width="1748" height="301" key="GridCell.Tab.0.right" timestamp="1613750465180">
+      <screen x="0" y="23" width="3008" height="1602" />
     </state>
-    <state width="1483" height="327" key="GridCell.Tab.0.bottom/0.23.2560.1346@0.23.2560.1346" timestamp="1594656545298" />
-    <state width="1483" height="327" key="GridCell.Tab.0.center" timestamp="1594656545298">
-      <screen x="0" y="23" width="2560" height="1346" />
+    <state width="1748" height="301" key="GridCell.Tab.0.right/0.23.3008.1602@0.23.3008.1602" timestamp="1613750465180" />
+    <state x="1551" y="159" width="1005" height="1466" key="search.everywhere.popup" timestamp="1613829173090">
+      <screen x="0" y="23" width="3008" height="1602" />
     </state>
-    <state width="1483" height="327" key="GridCell.Tab.0.center/0.23.2560.1346@0.23.2560.1346" timestamp="1594656545298" />
-    <state width="1483" height="327" key="GridCell.Tab.0.left" timestamp="1594656545297">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="1483" height="327" key="GridCell.Tab.0.left/0.23.2560.1346@0.23.2560.1346" timestamp="1594656545297" />
-    <state width="1483" height="327" key="GridCell.Tab.0.right" timestamp="1594656545298">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="1483" height="327" key="GridCell.Tab.0.right/0.23.2560.1346@0.23.2560.1346" timestamp="1594656545298" />
-    <state width="1483" height="403" key="GridCell.Tab.1.bottom" timestamp="1594656002813">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="1483" height="403" key="GridCell.Tab.1.bottom/0.23.2560.1346@0.23.2560.1346" timestamp="1594656002813" />
-    <state width="1483" height="403" key="GridCell.Tab.1.center" timestamp="1594656002812">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="1483" height="403" key="GridCell.Tab.1.center/0.23.2560.1346@0.23.2560.1346" timestamp="1594656002812" />
-    <state width="1483" height="403" key="GridCell.Tab.1.left" timestamp="1594656002812">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="1483" height="403" key="GridCell.Tab.1.left/0.23.2560.1346@0.23.2560.1346" timestamp="1594656002812" />
-    <state width="1483" height="403" key="GridCell.Tab.1.right" timestamp="1594656002813">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="1483" height="403" key="GridCell.Tab.1.right/0.23.2560.1346@0.23.2560.1346" timestamp="1594656002813" />
-    <state width="1483" height="403" key="GridCell.Tab.2.bottom" timestamp="1594656002813">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="1483" height="403" key="GridCell.Tab.2.bottom/0.23.2560.1346@0.23.2560.1346" timestamp="1594656002813" />
-    <state width="1483" height="403" key="GridCell.Tab.2.center" timestamp="1594656002813">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="1483" height="403" key="GridCell.Tab.2.center/0.23.2560.1346@0.23.2560.1346" timestamp="1594656002813" />
-    <state width="1483" height="403" key="GridCell.Tab.2.left" timestamp="1594656002813">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="1483" height="403" key="GridCell.Tab.2.left/0.23.2560.1346@0.23.2560.1346" timestamp="1594656002813" />
-    <state width="1483" height="403" key="GridCell.Tab.2.right" timestamp="1594656002813">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="1483" height="403" key="GridCell.Tab.2.right/0.23.2560.1346@0.23.2560.1346" timestamp="1594656002813" />
-    <state width="1483" height="403" key="GridCell.Tab.3.bottom" timestamp="1594656002814">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="1483" height="403" key="GridCell.Tab.3.bottom/0.23.2560.1346@0.23.2560.1346" timestamp="1594656002814" />
-    <state width="1483" height="403" key="GridCell.Tab.3.center" timestamp="1594656002813">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="1483" height="403" key="GridCell.Tab.3.center/0.23.2560.1346@0.23.2560.1346" timestamp="1594656002813" />
-    <state width="1483" height="403" key="GridCell.Tab.3.left" timestamp="1594656002813">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="1483" height="403" key="GridCell.Tab.3.left/0.23.2560.1346@0.23.2560.1346" timestamp="1594656002813" />
-    <state width="1483" height="403" key="GridCell.Tab.3.right" timestamp="1594656002813">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="1483" height="403" key="GridCell.Tab.3.right/0.23.2560.1346@0.23.2560.1346" timestamp="1594656002813" />
-    <state x="747" y="358" width="1177" height="770" key="SettingsEditor" timestamp="1594651259082">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state x="747" y="358" width="1177" height="770" key="SettingsEditor/0.23.2560.1346@0.23.2560.1346" timestamp="1594651259082" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1594646815664">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="500" height="445" key="SwitcherDM/0.23.2560.1346@0.23.2560.1346" timestamp="1594646815664" />
-    <state width="600" height="440" key="javadoc.popup" timestamp="1594642466556">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state width="600" height="440" key="javadoc.popup/0.23.2560.1346@0.23.2560.1346" timestamp="1594642466556" />
-    <state x="1133" y="292" width="670" height="676" key="search.everywhere.popup" timestamp="1594655047708">
-      <screen x="0" y="23" width="2560" height="1346" />
-    </state>
-    <state x="1133" y="292" width="670" height="676" key="search.everywhere.popup/0.23.2560.1346@0.23.2560.1346" timestamp="1594655047708" />
+    <state x="1551" y="159" width="1005" height="1466" key="search.everywhere.popup/0.23.3008.1602@0.23.3008.1602" timestamp="1613829173090" />
   </component>
 </project>

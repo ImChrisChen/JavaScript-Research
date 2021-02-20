@@ -1013,7 +1013,7 @@ const getData = function () {
             }
         ],
         "status": true
-    }
+    }['data']
 }
 
 window.getData = getData;

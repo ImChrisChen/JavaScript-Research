@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavascriptDesignMode.iml" filepath="$PROJECT_DIR$/.idea/JavascriptDesignMode.iml" />
+      <module fileurl="file://$USER_HOME$/websites/HexoBlog/.idea/MyBlogHexo.iml" filepath="$USER_HOME$/websites/HexoBlog/.idea/MyBlogHexo.iml" />
     </modules>
   </component>
 </project>

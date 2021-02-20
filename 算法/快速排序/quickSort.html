@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+<script type="module">
+    /**
+     *  快速排序思路：
+     *  1. 取数组中的基准值(也可以是任意值)，并创建两个数组容器 创建两个容器
+     *  2. 遍历数组依次进行对比，小于基准值的放入到 left 数组中，大于基准值的放入 right数组中。
+     *  3. 递归处理两个容器的元素，并将处理后的数据与基准值按大小合并成一个数组，返回。
+     *  需要注意的几个点：
+     *  1. 递归函数需要有出口
+     *  2. 取完基准值后要删除原数组中的基准值(否则递归会使程序调用栈溢出)
+     */
+    import { createRandomArray } from '../../utils';
+
+    // 数组快速排序
+    function quickSort(arr) {
+
+        if (arr.length === 0) {
+            return arr;
+        }
+
+        let left = [];
+        let right = [];
+
+        let centerIndex = window.Math.floor(arr.length / 2);
+        let center = arr.splice(centerIndex, 1)[0];
+        console.log(center, arr);
+        // let center = arr[centerIndex];
+
+        for (const item of arr) {
+            if (item > center) {
+                right.push(item);
+            } else {
+                left.push(item);
+            }
+        }
+        return [...quickSort(left), center, ...quickSort(right)];
+    }
+
+    let array = createRandomArray(10);
+    let res = quickSort(array);
+    console.log(res);
+</script>

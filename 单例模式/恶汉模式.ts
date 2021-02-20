@@ -1,0 +1,1 @@
+/** * Created by WebStorm. * User: chrischen * Date: 2020/7/15 * Time: 11:17 下午 */// 恶汉模式class Singe {    // 只要你把这个类引进来了，他就已经创建出来实例化的对象了    static getInstanceEvil = new Singe();    // 设置成静态属性，禁止使用 new 操作符生成对象    constructor() {    }    getName() {    }}let singe = Singe.getInstanceEvil;singe.getName()

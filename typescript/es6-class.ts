@@ -1,0 +1,1 @@
+class Person {    public constructor() {    }    public render() {        this._renderContent();    }    public renderList() {    }    private _renderContent() {        this.renderList();    }}
