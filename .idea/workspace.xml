@@ -20,35 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f63b166-ee5f-401d-9dc1-bfea760a2aa4" name="默认更改列表" comment="jjjj">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generate-yield/generate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest/sum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest/sum.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typescript/es6-class.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/代理模式/明星经纪人例子.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/单例模式/恶汉模式.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/原生JS求DOM树的最大深度/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/原生JS求DOM树的最大深度/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/工厂模式/jQuery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/手写forEach/forEach.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/冒泡排序/bubbleSort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/快速排序/quickSort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/扁平化-去重复-排序/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/递归/递归.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/递归/递归求阶乘.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/迭代器模式/class.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/迭代器模式/es6-iterator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/递归算法/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JavascriptDesignMode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavascriptDesignMode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/leecode/1438.绝对差不超过限制的最长连续子数组.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/data/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/发布-订阅模式/发布-订阅模式.html" beforeDir="false" afterPath="$PROJECT_DIR$/发布-订阅模式/发布-订阅模式.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +211,8 @@
       <workItem from="1613749235062" duration="6000" />
       <workItem from="1613749247737" duration="1000" />
       <workItem from="1613749295401" duration="901000" />
-      <workItem from="1613829050816" duration="8441000" />
+      <workItem from="1613829050816" duration="8566000" />
+      <workItem from="1613923391485" duration="1309000" />
     </task>
     <servers />
   </component>
@@ -261,6 +236,10 @@
       <screen x="0" y="23" width="3008" height="1602" />
     </state>
     <state x="1376" y="140" key="#sum/0.23.3008.1602@0.23.3008.1602" timestamp="1613749430743" />
+    <state x="307" y="23" key="CommitChangelistDialog2" timestamp="1613838230332">
+      <screen x="0" y="23" width="3008" height="1602" />
+    </state>
+    <state x="307" y="23" key="CommitChangelistDialog2/0.23.3008.1602@0.23.3008.1602" timestamp="1613838230332" />
     <state width="1748" height="301" key="GridCell.Tab.0.bottom" timestamp="1613750465180">
       <screen x="0" y="23" width="3008" height="1602" />
     </state>
@@ -277,6 +256,10 @@
       <screen x="0" y="23" width="3008" height="1602" />
     </state>
     <state width="1748" height="301" key="GridCell.Tab.0.right/0.23.3008.1602@0.23.3008.1602" timestamp="1613750465180" />
+    <state width="750" height="600" key="SwitcherDM" timestamp="1613924419407">
+      <screen x="0" y="23" width="3008" height="1602" />
+    </state>
+    <state width="750" height="600" key="SwitcherDM/0.23.3008.1602@0.23.3008.1602" timestamp="1613924419407" />
     <state x="1551" y="159" width="1005" height="1466" key="search.everywhere.popup" timestamp="1613829173090">
       <screen x="0" y="23" width="3008" height="1602" />
     </state>

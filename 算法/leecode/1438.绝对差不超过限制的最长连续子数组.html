@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+
+<script>
+
+    //  给你一个整数数组 nums ，和一个表示限制的整数 limit，请你返回最长连续子数组的长度，该子数组中的任意两个元素之间的绝对差必须小于或者等于 limit 。
+    //  如果不存在满足条件的子数组，则返回 0 。
+    // 来源：力扣（LeetCode）
+    // 链接：https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+    // 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
+    /**
+     * @param {number[]} nums
+     * @param {number} limit
+     * @return {number}
+     */
+        // let nums = [8, 2, 4, 7];
+    let nums = [10, 1, 2, 4, 7, 2];
+    // let limit = 4;
+    let limit = 5;
+
+    function longestSubarray(nums = [], limit) {
+        let newArr = [];
+        let maxLength = 0;
+        for (let i = 0; i < nums.length; i++) {
+            for (let j = 0; j < nums.length - i; j++) {
+                let item = nums[i];
+                let nextItem = nums[i + 1];
+                if (nextItem && window.Math.abs(nextItem - item) < limit) {
+                    newArr.push([item, nextItem]);
+                }
+            }
+        }
+
+        for (const item of newArr) {
+            if (item.length > maxLength) {
+                maxLength = item.length;
+            }
+        }
+        return maxLength;
+    }
+
+    let res = longestSubarray(nums, limit);
+    console.log(res);
+
+</script>
+
